@@ -1,0 +1,18 @@
+name: Feature request
+description: An idea for Hybrid Cryptography Algorithm
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: What you wanted to try or learn, and where the app falls short today.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: How you imagine it working. A rough idea is fine.
+    validations:
+      required: true
